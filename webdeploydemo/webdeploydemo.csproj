@@ -160,8 +160,11 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\demowebappviaps-staging - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\demowebappviaps-staging - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\mvasessiondemo - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\mvasessiondemo - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\webdeploydemo20171031121631 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
